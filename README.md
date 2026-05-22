@@ -61,6 +61,7 @@ I hold a **Master in Management from ESCP** (London · Berlin · Turin) with a D
 | 🛰️ [Geospatial Site Selection Engine](#) | GIS + computer vision pipeline to detect solar installation sites from satellite imagery — 80% reduction in manual assessment time | Python · GIS · CV · Sentinel-2 |
 | 🏠 [Swedish Real-Estate Price Prediction](#) | Supervised regression with feature engineering and multi-algorithm benchmarking on out-of-sample performance | Python · Scikit-learn · Pandas |
 | 🏥 [Healthcare Parameter Prediction](#) | Supervised ML for clinical indicator forecasting on structured patient data | Python · Scikit-learn |
+| 🏦 [Swedish Mortgage Rule Engine](https://github.com/marco-loddo/swedish-mortgage-rule-engine) | Rule-based SFSA mortgage eligibility pipeline — binary search max-loan solver over 80K+ applications | Python · Pandas · SQLAlchemy · SQL |
 | 🚗 [DBX Cars Arbitrage Platform](#) | Automated web scraping platform monitoring 10K+ EU used-car listings/month with cross-border arbitrage detection logic | Python · Selenium · BeautifulSoup |
 
 ---
