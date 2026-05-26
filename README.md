@@ -58,11 +58,11 @@ I hold a **Master in Management from ESCP** (London · Berlin · Turin) with a D
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛰️ [Geospatial Site Selection Engine](#) | GIS + computer vision pipeline to detect solar installation sites from satellite imagery — 80% reduction in manual assessment time | Python · GIS · CV · Sentinel-2 |
+| 🛰️ Geospatial Site Selection Engine — *private (proprietary)* | GIS + computer vision pipeline for solar site identification — multi-source data fusion (LiDAR rooftop scans, solar irradiance, building heights) and multi-criteria raster analysis (irradiance, slope, grid distance, land use, environmental constraints). Includes agrivoltaic angle: detecting agriculturally degraded soils where solar deployment provides both economic and ecological value | Python · GeoPandas · GIS · Computer Vision |
 | 🏠 [Swedish Housing Price Engine](https://github.com/marco-loddo/swedish-housing-price-engine) | XGBoost pipeline for predicting apartment sell prices — relational data engineering, geospatial enrichment (SCB + OSM), time-based CV | Python · XGBoost · GeoPandas · SQLAlchemy |
 | 🎯 [bAdsense Persona Classification](https://github.com/marco-loddo/badsense-persona-classification) | ML classification on health data + EV-based advertiser portfolio decisions — ranked **2nd/45** on total profit, **3rd/45** on drinker accuracy (SSE Data Science) | Python · Scikit-learn · SQLAlchemy |
 | 🏦 [Swedish Mortgage Rule Engine](https://github.com/marco-loddo/swedish-mortgage-rule-engine) | Rule-based SFSA mortgage eligibility pipeline — binary search max-loan solver over 80K+ applications | Python · Pandas · SQLAlchemy · SQL |
-| 🚗 [DBX Cars Arbitrage Platform](#) | Automated web scraping platform monitoring 10K+ EU used-car listings/month with cross-border arbitrage detection logic | Python · Selenium · BeautifulSoup |
+| 🚗 DBX Cars Arbitrage Platform — *private (commercial)* | Automated web scraping platform monitoring 10K+ EU used-car listings/month with cross-border arbitrage detection logic across European markets | Python · BeautifulSoup · Web Scraping |
 
 ---
 
